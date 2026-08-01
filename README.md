@@ -226,8 +226,7 @@ Additional delivered systems: **Human Resource Management System**, **Financial 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehranKhan&theme=minimal&hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehranKhan&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+
 </p>
 
 
