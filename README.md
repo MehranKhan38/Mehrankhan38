@@ -230,7 +230,6 @@ Additional delivered systems: **Human Resource Management System**, **Financial 
   <img src="https://github-profile-trophy.vercel.app/?username=MehranKhan&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </p>
 
-<p align="center"><sub>If any stat card above shows an error, it's almost always the free hosted service being rate-limited or temporarily down, not your profile — see the note after the Connect section for quick fixes.</sub></p>
 
 ---
 
@@ -271,12 +270,6 @@ I'm open to collaborating on backend architecture, automation tooling, and API i
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-2E86C1?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>Portfolio link is a placeholder — replace the <code>#</code> href with your actual URL once you have one.</i></p>
-
-> **Note on stat-card errors:** The GitHub Stats, Top Languages, Streak, and Trophy images above are generated live by free third-party services (not GitHub itself). They occasionally return errors like `402` or "Error Fetching Resource" when that specific service is overloaded or its free hosting tier is temporarily down — this is unrelated to your profile and usually resolves on its own within minutes to a few hours. If an error persists:
-> - Right-click the broken image → open it in a new tab to see the exact error.
-> - Try refreshing after a few minutes — these services get hit by huge global traffic.
-> - As a fallback, swap the affected line for a different maintained fork (e.g. `github-readme-stats.vercel.app` → `github-readme-stats-two-lyart.vercel.app`, or self-host via the project's own GitHub repo instructions).
 
 ---
 
