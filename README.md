@@ -213,10 +213,6 @@ Additional delivered systems: **Human Resource Management System**, **Financial 
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MehranKhan&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehranKhan&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MehranKhan&hide_border=true" alt="GitHub Streak"/>
