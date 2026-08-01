@@ -214,12 +214,12 @@ Additional delivered systems: **Human Resource Management System**, **Financial 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MehranKhan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehranKhan&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MehranKhan&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehranKhan&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehranKhan&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MehranKhan&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -227,8 +227,10 @@ Additional delivered systems: **Human Resource Management System**, **Financial 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehranKhan&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MehranKhan&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </p>
+
+<p align="center"><sub>If any stat card above shows an error, it's almost always the free hosted service being rate-limited or temporarily down, not your profile — see the note after the Connect section for quick fixes.</sub></p>
 
 ---
 
@@ -263,13 +265,18 @@ I'm open to collaborating on backend architecture, automation tooling, and API i
 ### 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/MehranKhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/MehranKhan38"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:mehranzill@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mehran38/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-2E86C1?style=for-the-badge&logo=todoist&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>LinkedIn and Portfolio links are placeholders — replace the <code>#</code> href with your actual URLs.</i></p>
+<p align="center"><i>Portfolio link is a placeholder — replace the <code>#</code> href with your actual URL once you have one.</i></p>
+
+> **Note on stat-card errors:** The GitHub Stats, Top Languages, Streak, and Trophy images above are generated live by free third-party services (not GitHub itself). They occasionally return errors like `402` or "Error Fetching Resource" when that specific service is overloaded or its free hosting tier is temporarily down — this is unrelated to your profile and usually resolves on its own within minutes to a few hours. If an error persists:
+> - Right-click the broken image → open it in a new tab to see the exact error.
+> - Try refreshing after a few minutes — these services get hit by huge global traffic.
+> - As a fallback, swap the affected line for a different maintained fork (e.g. `github-readme-stats.vercel.app` → `github-readme-stats-two-lyart.vercel.app`, or self-host via the project's own GitHub repo instructions).
 
 ---
 
@@ -280,19 +287,3 @@ I'm open to collaborating on backend architecture, automation tooling, and API i
 <p align="center">
   ⭐ Thanks for stopping by — feel free to explore my repositories.
 </p>
-## Hi there 👋
-
-<!--
-**MehranKhan38/Mehrankhan38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
