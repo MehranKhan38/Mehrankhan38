@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mehran Khan 👋</h1>
+﻿<h1 align="center">Hi, I'm Mehran Khan 👋</h1>
 <h3 align="center">Principal Software Engineer | System Architect | Full-Stack & Automation Specialist</h3>
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MehranKhan&label=Profile%20Views&color=2E86C1&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/MehranKhan?label=Followers&style=flat&color=2E86C1" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=MehranKhan38&label=Profile%20Views&color=2E86C1&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/MehranKhan38?label=Followers&style=flat&color=2E86C1" alt="Followers"/>
 </p>
 
 ---
@@ -215,16 +215,12 @@ Additional delivered systems: **Human Resource Management System**, **Financial 
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MehranKhan&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=MehranKhan38&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehranKhan&theme=minimal&hide_border=true" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehranKhan38&theme=minimal&hide_border=true" alt="Activity Graph" width="90%"/>
 </p>
-
-
-</p>
-
 
 ---
 
@@ -275,3 +271,4 @@ I'm open to collaborating on backend architecture, automation tooling, and API i
 <p align="center">
   ⭐ Thanks for stopping by — feel free to explore my repositories.
 </p>
+
